@@ -6,6 +6,8 @@ The system uses large language models to recursively query and extract structure
 
 The pipeline integrates multiple LLM providers, supports bilingual queries, and standardizes structured outputs to create reproducible datasets for downstream analysis.
 
+This pipeline supports bilingual querying in both **Chinese and English**, improving extraction reliability across multilingual sources.
+
 ---
 
 # Overview
