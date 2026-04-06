@@ -129,7 +129,6 @@ This project was developed collaboratively as part of an applied academic resear
 - Developed a single-run execution framework enabling automated evaluation across multiple parameter configurations  
 - Implemented bilingual query support (English/Chinese) and standardized structured output schemas for downstream analysis  
 
---- 
 
 The final pipeline represents a merged implementation incorporating elements from both approaches.
 
