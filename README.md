@@ -122,12 +122,14 @@ This project was developed collaboratively as part of an applied academic resear
 - Developed the main data extraction workflow  
 - Led the final unified implementation of the pipeline  
 
-### Kenny Gao
 
-- Developed an alternative DeepSeek-based pipeline during the exploration phase  
-- Contributed to query optimization, caching logic, and structured output design  
-- Implemented the **single-run execution system**, allowing the pipeline to run all parameter configurations in one execution rather than requiring multiple manual runs  
-- Contributed to bilingual query support and schema standardization  
+### Kenny Gao
+- Designed and implemented a DeepSeek-based pipeline for model comparison and system exploration  
+- Engineered query optimization and caching mechanisms, reducing redundant API calls and improving efficiency  
+- Developed a single-run execution framework enabling automated evaluation across multiple parameter configurations  
+- Implemented bilingual query support (English/Chinese) and standardized structured output schemas for downstream analysis  
+
+--- 
 
 The final pipeline represents a merged implementation incorporating elements from both approaches.
 
